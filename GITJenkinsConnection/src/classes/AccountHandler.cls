@@ -1,5 +1,5 @@
 public class AccountHandler {
-    // Creation of account New Account is created 20th May
+    // Create Account 
     public static Account insertNewAccount(String accountName) {
         try {
             Account acct = new Account(Name = accountName);
