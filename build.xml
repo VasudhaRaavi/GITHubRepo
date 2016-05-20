@@ -1,4 +1,4 @@
-<project name="Sample usage of Salesforce Ant tasks" default="deployUnpackaged" basedir="../SFDC_Deployment/ContinuousIntegration/src" xmlns:sf="antlib:com.salesforce">
+<project name="Sample usage of Salesforce Ant tasks" default="deployUnpackaged" basedir="../SFDC_Deployment/GITJenkinsConnection/src" xmlns:sf="antlib:com.salesforce">
 
     <property file="build.properties"/>
     <property environment="env"/>
