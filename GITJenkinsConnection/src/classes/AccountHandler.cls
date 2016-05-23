@@ -1,5 +1,5 @@
 public class AccountHandler {
-	//Create Account 123332
+//Create Account Check
 public static Account insertNewAccount(String accountName) {
         try {
             Account acct = new Account(Name = accountName);
