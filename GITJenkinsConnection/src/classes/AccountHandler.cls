@@ -1,5 +1,5 @@
 public class AccountHandler {
-	//abc 123 456 890
+	//Create Account
 public static Account insertNewAccount(String accountName) {
         try {
             Account acct = new Account(Name = accountName);
